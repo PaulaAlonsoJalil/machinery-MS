@@ -2,4 +2,4 @@ server:
   port: ${PORT:9999}
 message: Consumer configuration. Server is alive for PROD profile.
 max-login-attempts: 3
-email-domain-enabled: @outlook.com,@gmail.com,@digitalhouse.com
+email-domain-enabled: outlook.com,@gmail.com,@digitalhouse.com
