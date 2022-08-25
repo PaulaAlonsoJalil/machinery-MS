@@ -1,0 +1,5 @@
+server:
+  port: ${PORT:9998}
+message: Consumer configuration. Server is alive for PROD profile.
+url-vehicle-registry: https://www.dnrpa.gov.ar/portal_dnrpa
+max-machinery-parking-lot: 650

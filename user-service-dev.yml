@@ -1,0 +1,3 @@
+server:
+  port: ${PORT:9996}
+message: Server is alive for DEV profile.
